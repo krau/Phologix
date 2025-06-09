@@ -1,0 +1,14 @@
+models/
+/validation-arena/originals
+/validation-arena/resized
+*.pt
+*.onnx
+__pycache__
+/validation-arena/posts.jsonl
+test.jpg
+# Ignore dynaconf secret files
+.venv/
+build/
+dist/
+*.spec
+*.log

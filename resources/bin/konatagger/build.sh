@@ -1,0 +1,1 @@
+pyinstaller.exe -i logo.ico --noupx --add-data models:models api.py
